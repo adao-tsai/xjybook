@@ -3,13 +3,12 @@
 
 <a id="user-content-header" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324"><img border="0" src="https://cloud.githubusercontent.com/assets/19661274/16028172/eb36cb2e-321f-11e6-90e4-c0677ebd0759.jpg" style="max-width:100%;"></a>
 
-<p><img src="images/text-slogan_001.png"></p>
+<p><img src="http://www.epochweekly.com/github/20160522/code/images/text-slogan_001.png"></p>
 
 <P><a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元中國時局暢銷書合集-86717373"><img src="images/1024x213_20160630.jpg"></a></p>
 <p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/1024_ADBK0043.jpg"></a></p>
 
-<p><img src="images/H40BAR_C01.jpg"></p>
-
+<p><img src="http://www.epochweekly.com/github/20160522/code/images/H40BAR_C01.jpg"></p>
 
 <p class="books">
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
@@ -27,7 +26,7 @@
 
 <p><a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/1024_ADBK0036.jpg"></a></p>
 
-<img src="images/text-slogan_002.png">
+<img src="http://www.epochweekly.com/github/20160522/code/images/text-slogan_002.png">
 
 <p class="books">
 <a id="user-content-book-040" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/慶親王-鐵帽子王-曾慶紅-55815877?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="慶親王.鐵帽子王.曾慶紅"><img border="0" width="140" alt="慶親王.鐵帽子王.曾慶紅" src="https://cloud.githubusercontent.com/assets/19661274/15994248/a0fc6362-3142-11e6-9bca-b245ff0478bc.jpg" style="max-width:100%;"></a>
